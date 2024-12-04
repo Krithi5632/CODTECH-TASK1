@@ -1,14 +1,16 @@
-Name :KRITHI                                                                                                                                                                                            
+Name: Krithi
 
-College:YENEPOYA INSTITUTE OF TECHNOLOGY
+Company: Codtech IT Solutions
 
 ID: CT08DS9499
 
-Domain:VLSI
-Duration :OCTOBER TO NOVEMBER 2024
+Domain: Cloud Computing
 
+Duration: October to November 2024
 
+Mentor: Neela Santhosh Kumar
 
+Project: DIGITAL LOGIC DESIGN WITH VERILOG
 
 OVERVIEW OF THE PROJECT
 

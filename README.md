@@ -14,6 +14,24 @@ Project: DIGITAL LOGIC DESIGN WITH VERILOG
 
 OVERVIEW OF THE PROJECT
 
+Objective:
+Design and simulate basic digital logic circuits using Verilog within a VLSI software environment, ensuring correct functionality and analyzing simulation results.
+
+Key Activities:
+1. Design digital logic circuits: Create Verilog designs for basic digital logic circuits, such as logic gates, adders, and multiplexers.
+2. Write Verilog code: Write synthesizable Verilog code for each digital logic circuit.
+3. Simulate Verilog designs: Simulate the Verilog designs using a VLSI software simulator.
+4. Analyze simulation results: Use the waveform viewer in the VLSI software to analyze the simulation results and verify correct functionality.
+5. Debug and refine designs: Debug and refine the Verilog designs as needed to ensure correct functionality.
+
+
+Technologies Used:
+1. Verilog: A hardware description language (HDL) used for designing digital logic circuits.
+2. VLSI software: A software environment for designing, simulating, and analyzing digital logic circuits, such as ModelSim, QuestaSim, or Vivado.
+3. Waveform viewer: A tool within the VLSI software for visualizing and analyzing simulation results.
+4. Digital logic circuit design: The process of designing digital logic circuits using Verilog and VLSI software.
+
+
 
 
 

@@ -34,6 +34,14 @@ Technologies Used:
 
 
 
+Output:
+
+Logic gates:
+![image](https://github.com/user-attachments/assets/bcab9465-1a4e-4b83-bc5f-76ccd33d0ff2)
+![Screenshot 2024-12-01 150422](https://github.com/user-attachments/assets/91acc9c4-84fb-43a4-8235-a2f5f0e7b3a0)
+
+Half adder:
+
 
 
 

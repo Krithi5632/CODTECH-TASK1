@@ -46,6 +46,12 @@ Half adder:
 
 
 ![Screenshot 2024-12-01 143604](https://github.com/user-attachments/assets/212ae230-e3ba-40a1-be9f-7ba5ae45c07b)
-![Screenshot 2024-12-01 150034](https://github.com/user-attachments/assets/f04a6114-b6b9-49f1-8dd3-d589a0d28d5b)
+![image](https://github.com/user-attachments/assets/05d01c06-8e20-4ddd-bc82-9125fe78875f)
+
+multiplexer:
+
+![image](https://github.com/user-attachments/assets/40810fb5-af2a-4499-816c-7e38c7c0cad0)
+
+![Screenshot 2024-12-01 150839](https://github.com/user-attachments/assets/3aced1da-d631-4644-991f-eff2b1413188)
 
 
